@@ -3,8 +3,10 @@
   display: none;
 }
 
-div #wall #tag-3.slick {
+#wall #tag-3.slick {
   display:none;
 }
 
-#wall
+#wall #tag-4 {
+  display:none;
+}
